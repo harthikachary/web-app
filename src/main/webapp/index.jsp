@@ -7,5 +7,6 @@
 	<h2 style="color: red; font-size: 50px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h2>
 		<h3 style="color: red; font-size: 30px;" align="center">Version 1 deployment with NEXUS integration</h3>
     <h2 style="color: green; font-size: 50px;" align="center">Project 1 Completed </h2>
-<body style="colour: blue; font-size: 40px;" align="center">hello , i'm harthik getting trained by mrs.Ramyachetty</body>
+<body style="color: blue; font-size: 40px;" align="center">hello , i'm harthik 
+now trining under mrs.Ramyachetty</body>
 </html>
