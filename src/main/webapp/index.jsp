@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1 style="color: violet; font-size: 70px;" align="center"> hello , i'm Harthik </h1>
+<h1 style="color: violet; font-size: 70px;" align="center"> Hello , i'm Harthik </h1>
 </head>
 <body>
     <h1 style="color: black; font-size: 60px;" align="center">WELCOME TO MY WEBAPP </h1>
